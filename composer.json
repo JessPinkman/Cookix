@@ -1,0 +1,21 @@
+{
+    "name": "jess/cookie",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jesspinkman",
+            "email": "serge.goncalves@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^7.4 | ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+          "Cookix\\": "src"
+        }
+      }
+    
+}
