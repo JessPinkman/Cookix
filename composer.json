@@ -1,5 +1,6 @@
 {
     "name": "jesspinkman/cookix",
+    "description": "easy setup of cookies",
     "type": "library",
     "license": "MIT",
     "authors": [
